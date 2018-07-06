@@ -6,6 +6,7 @@ public class Dummy {
 		System.out.println("hello world");
 		int i=10;
 		System.out.println(i);
+		System.out.println("new addition");
 	}
 
 }
